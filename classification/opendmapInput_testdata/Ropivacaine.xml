@@ -1,0 +1,7 @@
+DDI-DrugBank.d591.s0 >> Ropivacaine should be used with caution in patients receiving other local anesthetics or agents structurally related to amide-type local anesthetics, since the toxic effects of these drugs are additive. >> 0-10,74-84,120-147
+DDI-DrugBank.d591.s1 >> Cytochrome P4501A2 is involved in the formation of 3-hydroxy ropivacaine, the major metabolite. >> 51-71
+DDI-DrugBank.d591.s2 >> In vivo, the plasma clearance of ropivacaine was reduced by 70% during coadministration of fluvoxamine (25 mg bid for 2 days), a selective and potent CYP1A2 inhibitor. >> 33-43,91-101
+DDI-DrugBank.d591.s3 >> Thus strong inhibitors of cytochrome P4501A2, such as fluvoxamine, given concomitantly during administration of Ropivacaine, can interact with Ropivacaine leading to increased ropivacaine plasma levels. >> 54-64,112-122,143-153,176-186
+DDI-DrugBank.d591.s4 >> Caution should be exercised when CYP1A2 inhibitors are coadministered.
+DDI-DrugBank.d591.s5 >> Possible interactions with drugs known to be metabolized by CYP1A2 via competitive inhibition such as theophylline and imipramine may also occur. >> 102-113,119-128
+DDI-DrugBank.d591.s6 >> Coadministration of a selective and potent inhibitor of CYP3A4, ketoconazole (100 mg bid for 2 days with ropivacaine infusion administered 1 hour after ketoconazole) caused a 15% reduction in in-vivo plasma clearance of ropivacaine. >> 64-75,105-115,152-163,220-230

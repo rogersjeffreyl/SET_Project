@@ -1,0 +1,14 @@
+DDI-DrugBank.d743.s0 >> Ketoconazole: Spontaneous adverse reaction reports of patients taking concomitant ketoconazole with recommended doses of terfenadine demonstrate QT interval prolongation and rare serious cardiac events, e.g. >> 0-11,82-93,121-131
+DDI-DrugBank.d743.s1 >> death, cardiac arrest, and ventricular arrhythmia including torsades de pointes.
+DDI-DrugBank.d743.s2 >> Pharmacokinetic data indicate that ketoconazole markedly inhibits the metabolism of terfenadine, resulting in elevated plasma terfenadine levels. >> 35-46,84-94,126-136
+DDI-DrugBank.d743.s3 >> Presence of unchanged terfenadine is associated with statistically significant prolongation of the QT and QTc intervals. >> 22-32
+DDI-DrugBank.d743.s4 >> Concomitant administration of ketoconazole and terfenadine is contraindicated. >> 30-41,47-57
+DDI-DrugBank.d743.s5 >> Itraconazole: Torsades de pointes and elevated parent terfenadine levels have been reported during concomitant use of terfenadine and itraconazole in clinical trials of itraconazole and from foreign post-marketing sources. >> 0-11,54-64,118-128,134-145,169-180
+DDI-DrugBank.d743.s6 >> One death has also been reported from foreign post- marketing sources.
+DDI-DrugBank.d743.s7 >> Concomitant administration of itraconazole and terfenadine is contraindicated. >> 30-41,47-57
+DDI-DrugBank.d743.s8 >> Due to the chemical similarity of other azole-type antifungal agents (including fluconazole, metronidazole, and miconazole) to ketoconazole, and itraconazole, concomitant use of these products with terfenadine is not recommended pending full examination of potential interactions. >> 40-67,80-90,93-105,112-121,127-138,145-156,198-208
+DDI-DrugBank.d743.s9 >> Macrolides: Clinical drug interaction studies indicate that erythromycin and clarithromycin can exert an effect on terfenadine metabolism by a mechanism which may be similar to that of ketoconazole, but to a lesser extent. >> 0-9,60-71,77-90,115-125,185-196
+DDI-DrugBank.d743.s10 >> Although erythromycin measurably decreases the clearance of the terfenadine acid metabolite, its influence on terfenadine plasma levels is still under investigation. >> 64-74
+DDI-DrugBank.d743.s11 >> A few spontaneous accounts of QT interval prolongation with ventricular arrhythmia including torsades de pointes, have been reported in patients receiving erythromycin or troleandomycin. >> 155-166,171-184
+DDI-DrugBank.d743.s12 >> Concomitant administration of terfenadine with clarithromycin, erythromycin, or troleandomycin is contraindicated: Pending full characterization of potential interactions, concomitant administration of terfenadine with other macrolide antibiotics, including azithromycin, is not recommended. >> 30-40,47-60,63-74,80-93,202-212,225-245,258-269
+DDI-DrugBank.d743.s13 >> Studies to evaluate potential interactions of terfenadine with azithromycin are in progress. >> 46-56,63-74

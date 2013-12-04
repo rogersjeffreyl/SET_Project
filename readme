@@ -1,0 +1,85 @@
+Modules Required:
+scikitpy
+nltk
+
+Folder and Scripts
+
+Folders:
+
+models: has the training and test data stored  in various formats using pickle files
+stats: has  various text files that describe the statistics of the  training and test corpora
+eg:
+1000_bigrams.txt has the precision, recall and f_score of the runs by choosing 1000 bigrams as features
+bigram_diff.txt  has the list of bigrams  ordered by its relative_frequency  in the descending order
+(no of postitive occurences- no of negative negative occurences/positive occurences+negative occurences)
+bigram_diff_total.txt has the list of bigrams  ordered by its frequency with respect to the occurences in the total number of sentences  in the descending order
+
+(no of postitive occurences- no of negative negative occurences/total_number_of_sentences)
+ the occurence of bigrams and trigrams is counted one per sentence
+
+Train:contains the train DrugBank and Medline Corpus
+Test: contains the test DrugBank and Medline Corpus
+
+Classification: Has scripts for  constructing the feature vector from the training  and corpus and the svm classifier script build using scikit's svm
+
+Important Scripts
+
+view_stats.py - 
+
+Usage: view_stats.py <typeofstats> <corpus>
+
+typeofstats can be unigram bigram or trigram
+
+corpus can take value test or train
+
+Description:
+
+This script  is used to  get the  stats from the   tuype of corpora provided as input
+
+
+construct_train_corpus.py 
+
+Description:
+
+This script  is used to gather stats about the train corpus like the number of bigrams,trigrams, sentences with drug interactions and sentences without drug interactions
+
+construct_training_mode.py
+
+Description:
+
+This script is used to generate the  list of bigrams  based on the relative frequency of occurences and the total frequency with respect to the sentences
+
+
+get_model_data.py <number_of_bigrams>
+
+Description:
+
+This script is used to generate a model file with the required number of bigrams  from both the bigram dictionaries( bigrams ordered based on the realtive frequency and bigrams based on the  total sentence count)
+
+identify.py
+
+Description:
+
+Used to evaluate the  bigram based feature set on training model and test model
+note: path has to be changed in the script in order to run it against train corpus
+
+Run:
+get_model_data.py 16000
+identify.py
+_____________________________________________________________________________________________________________
+classifier/main.py
+used to generate the training feature vector (based on bigrams, interaction words, dependency parsed sentences)from the training corpus
+
+classifier/main_test.py
+used to generate the  feature vectors for the test corpus
+
+classifier/classifier.py
+uses the svm classifier to classify the test  sentences based on support vector machines.
+The test feature vector and the training feature vector constructed through  the main.py and main_test.py scripts are used here
+
+
+
+Run:
+main.py
+main_test.py
+classifier.py

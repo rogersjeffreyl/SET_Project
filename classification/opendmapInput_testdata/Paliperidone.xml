@@ -1,0 +1,11 @@
+DDI-DrugBank.d670.s0 >> Potential for INVEGA    to Affect Other Drugs Paliperidone is not expected to cause clinically important pharmacokinetic interactions with drugs that are metabolized by cytochrome P450 isozymes. >> 14-19,46-57
+DDI-DrugBank.d670.s1 >> In vitro studies in human liver microsomes showed that paliperidone does not substantially inhibit the metabolism of drugs metabolized by cytochrome P450 isozymes, including CYP1A2, CYP2A6, CYP2C8/9/10, CYP2D6, CYP2E1, CYP3A4, and CYP3A5. >> 55-66
+DDI-DrugBank.d670.s2 >> Therefore, paliperidone is not expected to inhibit clearance of drugs that are metabolized by these metabolic pathways in a clinically relevant manner. >> 11-22
+DDI-DrugBank.d670.s3 >> Paliperidone is also not expected to have enzyme inducing properties. >> 0-11
+DDI-DrugBank.d670.s4 >> At therapeutic concentrations, paliperidone did not inhibit P-glycoprotein. >> 31-42
+DDI-DrugBank.d670.s5 >> Paliperidone is therefore not expected to inhibit P-glycoprotein-mediated transport of other drugs in a clinically relevant manner. >> 0-11
+DDI-DrugBank.d670.s6 >> Given the primary CNS effects of paliperidone, INVEGA    should be used with caution in combination with other centrally acting drugs and alcohol. >> 33-44,47-52,111-132,138-144
+DDI-DrugBank.d670.s7 >> Paliperidone may antagonize the effect of levodopa and other dopamine agonists. >> 0-11,42-49,61-77
+DDI-DrugBank.d670.s8 >> Because of its potential for inducing orthostatic hypotension, an additive effect may be observed when INVEGA    is administered with other therapeutic agents that have this potential. >> 103-108
+DDI-DrugBank.d670.s9 >> Potential for Other Drugs to Affect INVEGA    Paliperidone is not a substrate of CYP1A2, CYP2A6, CYP2C9, and CYP2C19, so that an interaction with inhibitors or inducers of these isozymes is unlikely. >> 36-41,46-57
+DDI-DrugBank.d670.s10 >> While in vitro studies indicate that CYP2D6 and CYP3A4 may be minimally involved in paliperidone metabolism, in vivo studies do not show decreased elimination by these isozymes and they contribute to only a small fraction of total body clearance. >> 84-95

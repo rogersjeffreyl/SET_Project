@@ -1,0 +1,10 @@
+DDI-DrugBank.d653.s0 >> The pharmacokinetic interactions listed below are potentially clinically important.
+DDI-DrugBank.d653.s1 >> Drugs that induce hepatic enzymes such as phenobarbital, phenytoin and rifampin may increase the clearance of corticosteroids and may require increases in corticosteroid dose to achieve the desired response. >> 42-54,57-65,71-78,110-124,155-168
+DDI-DrugBank.d653.s2 >> Drugs such as troleandomycin and ketoconazole may inhibit the metabolism of corticosteroids and thus decrease their clearance. >> 14-27,33-44,76-90
+DDI-DrugBank.d653.s3 >> Therefore, the dose of corticosteroid should be titrated to avoid steroid toxicity. >> 23-36
+DDI-DrugBank.d653.s4 >> Corticosteroids may increase the clearance of chronic high dose aspirin. >> 0-14,64-70
+DDI-DrugBank.d653.s5 >> This could lead to decreased salicylate serum levels or increase the risk of salicylate toxicity when corticosteroid is withdrawn. >> 29-38,77-86,102-115
+DDI-DrugBank.d653.s6 >> Aspirin should be used cautiously in conjunction with corticosteroids in patients suffering from hypoprothrombinemia. >> 0-6,54-68
+DDI-DrugBank.d653.s7 >> The effect of corticosteroids on oral anticoagulants is variable. >> 14-28,38-51
+DDI-DrugBank.d653.s8 >> There are reports of enhanced as well as diminished effects of anticoagulants when given concurrently with corticosteroids. >> 63-76,107-121
+DDI-DrugBank.d653.s9 >> Therefore, coagulation indices should be monitored to maintain the desired anticoagulant effect.

@@ -1,0 +1,17 @@
+DDI-DrugBank.d700.s0 >> Antacids: Absorption of a single dose of Myfortic was decreased when administered to 12 stable renal transplant patients also taking magnesium-aluminum containing antacids (30 mL): the mean Cmax and AUC(0-t) values for MPA were 25% and 37% lower, respectively, than when Myfortic was administered alone under fasting conditions. >> 0-7,41-48,133-141,143-150,163-170,271-278
+DDI-DrugBank.d700.s1 >> It is recommended that Myfortic and antacids not be administered simultaneously. >> 23-30,36-43
+DDI-DrugBank.d700.s2 >> Cyclosporine: When studied in stable renal transplant patients, cyclosporine, USP (MODIFIED) pharmacokinetics were unaffected by steady state dosing of Myfortic. >> 0-11,64-75,152-159
+DDI-DrugBank.d700.s3 >> Acyclovir/Ganciclovir: may be taken with Myfortic; >> 0-8,10-20,41-48
+DDI-DrugBank.d700.s4 >> however, during the period of treatment, physicians should monitor blood cell counts.
+DDI-DrugBank.d700.s5 >> Both acyclovir/ganciclovir and MPAG concentrations are increased in the presence of renal impairment, their coexistence may compete for tubular secretion and further increase in the concentrations of the two. >> 5-13,15-25,31-34
+DDI-DrugBank.d700.s6 >> Azathioprine/Mycophenolate Mofetil: Given that azathioprine and mycophenolate mofetil inhibit purine metabolism, it is recommended that Myfortic not be administered concomitantly with azathioprine or mycophenolate mofetil. >> 0-11,13-33,47-58,64-84,136-143,184-195,200-220
+DDI-DrugBank.d700.s7 >> Cholestyramine and Drugs that Bind Bile Acids: These drugs interrupt enterohepatic recirculation and reduce MPA exposure when coadministered with mycophenolate mofetil. >> 0-13,108-110,146-166
+DDI-DrugBank.d700.s8 >> Therefore, do not administer Myfortic with cholestyramine or other agents that may interfere with enterohepatic recirculation or drugs that may bind bile acids, for example bile acid sequestrates or oral activated charcoal, because of the potential to reduce the efficacy of Myfortic. >> 29-36,43-56,204-221,275-282
+DDI-DrugBank.d700.s9 >> Oral Contraceptives: Given the different metabolism of Myfortic and oral contraceptives, no drug interaction between these two classes of drug is expected. >> 5-18,55-62,73-86
+DDI-DrugBank.d700.s10 >> However, in a drug-drug interaction study, mean levonorgesterol AUC was decreased by 15% when coadministered with mycophenolate mofetil. >> 48-62,114-134
+DDI-DrugBank.d700.s11 >> Therefore, it is recommended that oral contraceptives are co- administered with Myfortic with caution and additional birth control methods be considered. >> 39-52,80-87
+DDI-DrugBank.d700.s12 >> Live Vaccines: During treatment with Myfortic, the use of live attenuated vaccines should be avoided and patients should be advised that vaccinations may be less effective. >> 0-12,37-44,58-81
+DDI-DrugBank.d700.s13 >> Influenza vaccination may be of value.
+DDI-DrugBank.d700.s14 >> Prescribers should refer to national guidelines for influenza vaccination.
+DDI-DrugBank.d700.s15 >> Drugs that alter the gastrointestinal flora may interact with Myfortic by disrupting enterohepatic recirculation. >> 62-69
+DDI-DrugBank.d700.s16 >> Interference of MPAG hydrolysis may lead to less MPA available for absorption. >> 16-19,49-51

@@ -1,0 +1,9 @@
+DDI-DrugBank.d576.s0 >> Salicylates antagonize the uricosuric action of . drugs used to treat gout. >> 0-10
+DDI-DrugBank.d576.s1 >> ASPIRIN AND OTHER SALICYLATE DRUGS WILL BE ADDITIVE TO DISALCID AND MAY INCREASE PLASMA CONCENTRATIONS OF SALICYLIC ACID TO TOXIC LEVELS. >> 0-6,18-33,55-62,106-119
+DDI-DrugBank.d576.s2 >> Drugs and foods that raise urine pH will increase renal clearance and urinary excretion of salicylic acid, thus lowering plasma levels; >> 91-104
+DDI-DrugBank.d576.s3 >> acidifying drugs or foods will decrease urinary excretion and increase plasma levels.
+DDI-DrugBank.d576.s4 >> Salicylates given concomitantly with anticoagulant drugs may predispose to systemic bleeding. >> 0-10,37-55
+DDI-DrugBank.d576.s5 >> Salicylates may enhance the hypoglycemic effect of oral antidiabetic drugs of the sulfonylurea class. >> 0-10,56-73
+DDI-DrugBank.d576.s6 >> Salicylate competes with a number of drugs for protein binding sites, notably penicillin, thiopental, thyroxine, triiodothyronine, phenytoin, sulfinpyrazone, naproxen, warfarin, methotrexate, and possibly corticosteroids. >> 0-9,78-87,90-99,102-110,113-128,131-139,142-155,158-165,168-175,178-189,205-219
+DDI-DrugBank.d576.s7 >> Drug/ Laboratory Test Interactions Salicylate competes with thyroid hormone for binding to plasma proteins, which may be reflected in a depressed plasma T4 value in some patients; >> 35-44
+DDI-DrugBank.d576.s8 >> thyroid function and basal metabolism are unaffected.

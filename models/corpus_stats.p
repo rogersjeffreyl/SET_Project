@@ -1,0 +1,11 @@
+(dp1
+S'positive_sentences'
+p2
+I2105
+sS'total_sentences'
+p3
+I6976
+sS'negative_sentences'
+p4
+I1684
+s.

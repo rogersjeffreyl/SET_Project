@@ -1,0 +1,8 @@
+Sentence_count:6976
+TP:1921
+TN:4703
+FP:168
+FN:184
+Precision:0.919579
+Recall:0.912589
+Fscore:0.916071

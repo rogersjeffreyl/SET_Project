@@ -1,0 +1,8 @@
+Sentence_count:6976
+TP:2008
+TN:4648
+FP:223
+FN:97
+Precision:0.900045
+Recall:0.953919
+Fscore:0.926199

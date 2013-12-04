@@ -1,0 +1,5 @@
+DDI-DrugBank.d721.s0 >> The bioavailability of SKELID is decreased 80% by calcium, when calcium and SKELID are administered at the same time, and 60% by some aluminum- or magnesium-containing antacids, when administered 1 hour before SKELID. >> 23-28,50-56,64-70,76-81,134-141,147-155,168-175,210-215
+DDI-DrugBank.d721.s1 >> Aspirin may decrease bioavailability of SKELID by up to 50% when taken 2 hours after SKELID. >> 0-6,40-45,85-90
+DDI-DrugBank.d721.s2 >> The bioavailability of SKELID is increased 2-4 fold by indomethacin but is not significantly altered by coadministration of diclofenac. >> 23-28,55-66,124-133
+DDI-DrugBank.d721.s3 >> The pharmacokinetic parameters of digoxin are not significantly modified by SKELID coadministration. >> 34-40,76-81
+DDI-DrugBank.d721.s4 >> In vitro studies show that tiludronate does not displace warfarin from its binding site on protein. >> 27-37,57-64

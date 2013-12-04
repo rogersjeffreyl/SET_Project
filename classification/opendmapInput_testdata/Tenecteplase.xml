@@ -1,0 +1,6 @@
+DDI-DrugBank.d773.s0 >> Formal interaction studies of TNKase with other drugs have not been performed. >> 30-35
+DDI-DrugBank.d773.s1 >> Patients studied in clinical trials of TNKase were routinely treated with heparin and aspirin. >> 39-44,74-80,86-92
+DDI-DrugBank.d773.s2 >> Anticoagulants (such as heparin and vitamin K antagonists) and drugs that alter platelet function (such as acetylsalicylic acid, dipyridamole, and GP IIb/IIIa inhibitors) may increase the risk of bleeding if administered prior to, during, or after TNKase therapy. >> 0-13,24-30,36-56,107-126,129-140,248-253
+DDI-DrugBank.d773.s3 >> Drug/Laboratory Test Interactions During TNKase therapy, results of coagulation tests and/or measures of fibrinolytic activity may be unreliable unless specific precautions are taken to prevent in vitro artifacts. >> 41-46
+DDI-DrugBank.d773.s4 >> Tenecteplase is an enzyme that, when present in blood in pharmacologic concentrations, remains active under in vitro conditions. >> 0-11
+DDI-DrugBank.d773.s5 >> This can lead to degradation of fibrinogen in blood samples removed for analysis.

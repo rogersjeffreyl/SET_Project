@@ -1,0 +1,3 @@
+{'negative_sentences': 4871,
+ 'positive_sentences': 2105,
+ 'total_sentences': 6976}

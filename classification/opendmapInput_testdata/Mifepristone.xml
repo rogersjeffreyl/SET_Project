@@ -1,0 +1,6 @@
+DDI-DrugBank.d668.s0 >> Although specific drug or food interactions with mifepristone have not been studied, on the basis of this drug   s metabolism by CYP 3A4, it is possible that ketoconazole, itraconazole, erythromycin, and grapefruit juice may inhibit its metabolism (increasing serum levels of mifepristone). >> 49-60,158-169,172-183,186-197,276-287
+DDI-DrugBank.d668.s1 >> Furthermore, rifampin, dexamethasone, St. >> 13-20,23-35
+DDI-DrugBank.d668.s2 >> John   s Wort, and certain anticonvulsants (phenytoin, phenobarbital, carbamazepine) may induce mifepristone metabolism (lowering serum levels of mifepristone). >> 27-41,44-52,55-67,70-82,96-107,146-157
+DDI-DrugBank.d668.s3 >> Based on in vitro inhibition information, coadministration of mifepristone may lead to an increase in serum levels of drugs that are CYP 3A4 substrates. >> 62-73
+DDI-DrugBank.d668.s4 >> Due to the slow elimination of mifepristone from the body, such interaction may be observed for a prolonged period after its administration. >> 31-42
+DDI-DrugBank.d668.s5 >> Therefore, caution should be exercised when mifepristone is administered with drugs that are CYP 3A4 substrates and have narrow therapeutic range, including some agents used during general anesthesia. >> 44-55

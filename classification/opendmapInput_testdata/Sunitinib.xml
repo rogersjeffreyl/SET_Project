@@ -1,0 +1,8 @@
+DDI-DrugBank.d639.s0 >> Co-administration of SUTENT with strong inhibitors of the CYP3A4 family (e.g., ketoconazole, itraconazole, clarithromycin, atazanavir, indinavir, nefazodone, nelfinavir, ritonavir, saquinavir, telithromycin, voriconizole) may increases sunitinib concentrations. >> 21-26,79-90,93-104,107-120,123-132,135-143,146-155,158-167,170-178,181-190,193-205,208-219,236-244
+DDI-DrugBank.d639.s1 >> Grapefruit may also increase plasma concentrations of SUTENT. >> 54-59
+DDI-DrugBank.d639.s2 >> Co-administration of SUTENT with inducers of the CYP3A4 family (e.g., dexamethasone, phenytoin, carbamazepine, rifampin, rifabutin, rifapentin, phenobarbital, St. Johns Wort) may decrease sunitinib concentrations. >> 21-26,70-82,85-93,96-108,111-118,121-129,132-141,144-156,188-196
+DDI-DrugBank.d639.s3 >> St.
+DDI-DrugBank.d639.s4 >> Johns Wort may decrease SUTENT plasma concentrations unpredictably. >> 24-29
+DDI-DrugBank.d639.s5 >> Patients receiving SUTENT should not take St. >> 19-24
+DDI-DrugBank.d639.s6 >> Johns Wort concomitantly.
+DDI-DrugBank.d639.s7 >> SUTENT dose modification is recommended in patients using concomitant CYP3A4 inhibitors or inducers. >> 0-5

@@ -1,0 +1,44 @@
+DDI-DrugBank.d776.s0 >> Clinically or potentially significant drug interactions between DIFLUCAN and the following agents/classes have been observed. >> 64-71
+DDI-DrugBank.d776.s1 >> These are described in greater detail below: DIFLUCAN and the following agents/classes have been observed. >> 45-52
+DDI-DrugBank.d776.s2 >> These are described in greater detail below:  Oral hypoglycemics, Coumarin-type anticoagulants, Phenytoin, Cyclosporine, Rifampin, Theophylline, Terfenadine, Cisapride, Astemizole, Rifabutin, Tacrolimus, Short-acting benzodiazepines,  Oral hypoglycemics: Clinically significant hypoglycemia may be precipitated by the use of DIFLUCAN with oral hypoglycemic agents; >> 51-63,66-93,96-104,107-118,121-128,131-142,145-155,158-166,169-178,181-189,192-201,204-231,240-252,325-332,344-362
+DDI-DrugBank.d776.s3 >> one fatality has been reported from hypoglycemia in association with combined DIFLUCAN and glyburide use. >> 78-85,91-99
+DDI-DrugBank.d776.s4 >> DIFLUCAN reduces the metabolism of tolbutamide, glyburide, and glipizide and increases the plasma concentration of these agents. >> 0-7,35-45,48-56,63-71
+DDI-DrugBank.d776.s5 >> When DIFLUCAN is used concomitantly with these or other sulfonylurea oral hypoglycemic agents, blood glucose concentrations should be carefully monitored and the dose of the sulfonylurea should be adjusted as necessary. >> 5-12,56-92,174-185
+DDI-DrugBank.d776.s6 >> Coumarin-type anticoagulants: Prothrombin time may be increased in patients receiving concomitant DIFLUCAN and coumarin-type anticoagulants. >> 0-27,98-105,111-138
+DDI-DrugBank.d776.s7 >> In post-marketing experience, as with other azole antifungals, bleeding events (bruising, epistaxis, gastrointestinal bleeding, hematuria, and melena) have been reported in association with increases in prothrombin time in patients receiving fluconazole concurrently with warfarin. >> 44-60,242-252,272-279
+DDI-DrugBank.d776.s8 >> Careful monitoring of prothrombin time in patients receiving DIFLUCAN and coumarin-type anticoagulants is recommended. >> 61-68,74-101
+DDI-DrugBank.d776.s9 >> (See <a href= "flucon_cp.htm#CP">CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
+DDI-DrugBank.d776.s10 >> Phenytoin: DIFLUCAN increases the plasma concentrations of phenytoin. >> 0-8,11-18,59-67
+DDI-DrugBank.d776.s11 >> Careful monitoring of phenytoin concentrations in patients receiving DIFLUCAN and phenytoin is recommended. >> 22-30,69-76,82-90
+DDI-DrugBank.d776.s12 >> (See <a href= "flucon_cp.htm#CP">CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
+DDI-DrugBank.d776.s13 >> Cyclosporine: DIFLUCAN may significantly increase cyclosporine levels in renal transplant patients with or without renal impairment. >> 0-11,14-21,50-61
+DDI-DrugBank.d776.s14 >> Careful monitoring of cyclosporine concentrations and serum creatinine is recommended in patients receiving DIFLUCAN and cyclosporine. >> 22-33,108-115,121-132
+DDI-DrugBank.d776.s15 >> (See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
+DDI-DrugBank.d776.s16 >> Rifampin: Rifampin enhances the metabolism of concurrently administered DIFLUCAN. >> 0-7,10-17,72-79
+DDI-DrugBank.d776.s17 >> Depending on clinical circumstances, consideration should be given to increasing the dose of DIFLUCAN when it is administered with rifampin. >> 93-100,131-138
+DDI-DrugBank.d776.s18 >> Theophylline: DIFLUCAN increases the serum concentrations of theophylline. >> 0-11,14-21,61-72
+DDI-DrugBank.d776.s19 >> Careful monitoring of serum theophylline concentrations in patients receiving DIFLUCAN and theophylline is recommended. >> 28-39,78-85,91-102
+DDI-DrugBank.d776.s20 >> Terfenadine: Because of the occurrence of serious cardiac dysrhythmias secondary to prolongation of the QTc interval in patients receiving azole antifungals in conjunction with terfenadine, interaction studies have been performed. >> 0-10,139-155,177-187
+DDI-DrugBank.d776.s21 >> One study at a 200-mg daily dose of fluconazole failed to demonstrate a prolongation in QTc interval. >> 36-46
+DDI-DrugBank.d776.s22 >> Another study at a 400-mg and 800-mg daily dose of fluconazole demonstrated that DIFLUCAN taken in doses of 400 mg per day or greater significantly increases plasma levels of terfenadine when taken concomitantly. >> 51-61,81-88,175-185
+DDI-DrugBank.d776.s23 >> The combined use of fluconazole at doses of 400 mg or greater with terfenadine is contraindicated. >> 20-30,67-77
+DDI-DrugBank.d776.s24 >> The coadministration of fluconazole at doses lower than 400 mg/day with terfenadine should be carefully monitored. >> 24-34,72-82
+DDI-DrugBank.d776.s25 >> Cisapride: There have been reports of cardiac events, including torsade de pointes in patients to whom fluconazole and cisapride were coadministered. >> 0-8,103-113,119-127
+DDI-DrugBank.d776.s26 >> A controlled study found that concomitant fluconazole 200 mg once daily and cisapride 20 mg four times a day yielded a significant increase in cisapride plasma levels and prolongation of QTc interval. >> 42-52,76-84,143-151
+DDI-DrugBank.d776.s27 >> The combined use of fluconazole with cisapride is contraindicated. >> 20-30,37-45
+DDI-DrugBank.d776.s28 >> Astemizole: The use of fluconazole in patients concurrently taking astemizole or other drugs metabolized by the cytochrome P450 system may be associated with elevations in serum levels of these drugs. >> 0-9,23-33,67-76
+DDI-DrugBank.d776.s29 >> In the absence of definitive information, caution should be used when coadministering fluconazole. >> 86-96
+DDI-DrugBank.d776.s30 >> Patients should be carefully monitored.
+DDI-DrugBank.d776.s31 >> Rifabutin: There have been reports of uveitis in patients to whom fluconazole and rifabutin were coadministered. >> 0-8,66-76,82-90
+DDI-DrugBank.d776.s32 >> Patients receiving rifabutin and fluconazole concomitantly should be carefully monitored. >> 19-27,33-43
+DDI-DrugBank.d776.s33 >> Tacrolimus: There have been reports of nephrotoxicity in patients to whom fluconazole and tacrolimus were coadministered. >> 0-9,74-84,90-99
+DDI-DrugBank.d776.s34 >> Patients receiving tacrolimus and fluconazole concomitantly should be carefully monitored. >> 19-28,34-44
+DDI-DrugBank.d776.s35 >> Short-acting Benzodiazepines: Following oral administration of midazolam, fluconazole resulted in substantial increases in midazolam concentrations and psychomotor effects. >> 0-27,63-71,74-84,123-131
+DDI-DrugBank.d776.s36 >> This effect on midazolam appears to be more pronounced following oral administration of fluconazole than with fluconazole administered intravenously. >> 15-23,88-98,110-120
+DDI-DrugBank.d776.s37 >> If short-acting benzodiazepines, which are metabolized by the cytochrome P450 system, are concomitantly administered with fluconazole, consideration should be given to decreasing the benzodiazepine dosage, and the patients should be appropriately monitored. >> 3-30,122-132,183-196
+DDI-DrugBank.d776.s38 >> Fluconazole tablets coadministered with ethinyl estradiol- and levonorgestrel-containing oral contraceptives produced an overall mean increase in ethinyl estradiol and levonorgestrel levels; >> 0-10,40-56,63-76,94-107,146-162,168-181
+DDI-DrugBank.d776.s39 >> however, in some patients there were decreases up to 47% and 33% of ethinyl estradiol and levonorgestrel levels. >> 68-84,90-103
+DDI-DrugBank.d776.s40 >> The data presently available indicate that the decreases in some individual ethinyl estradiol and levonorgestrel AUC values with fluconazole treatment are likely the result of random variation. >> 76-92,98-111,129-139
+DDI-DrugBank.d776.s41 >> While there is evidence that fluconazole can inhibit the metabolism of ethinyl estradiol and levonorgestrel, there is no evidence that fluconazole is a net inducer of ethinyl estradiol or levonorgestrel metabolism. >> 29-39,71-87,93-106,135-145,167-183,188-201
+DDI-DrugBank.d776.s42 >> The clinical significance of these effects is presently unknown.
+DDI-DrugBank.d776.s43 >> Physicians should be aware that interaction studies with medications other than those listed in the <a href= "flucon_cp.htm#CP">CLINICAL PHARMACOLOGY section have not been conducted, but such interactions may occur.

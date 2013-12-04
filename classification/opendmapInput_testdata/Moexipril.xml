@@ -1,0 +1,12 @@
+DDI-DrugBank.d640.s0 >> Diuretics: Excessive reductions in blood pressure may occur in patients on diuretic therapy when ACE inhibitors are started. >> 0-8,97-110
+DDI-DrugBank.d640.s1 >> The possibility of hypotensive effects with UNIVASC    can be minimized by discontinuing diuretic therapy for several days or cautiously increasing salt intake before initiation of treatment with UNIVASC   . If this is not possible, the starting dose of moexpril should be reduced.. >> 44-50,196-202,254-261
+DDI-DrugBank.d640.s2 >> Potassium Supplements and Potassium-Sparing Diuretics: UNIVASC    can increase serum potassium because it decreases aldosterone secretion. >> 0-8,26-52,55-61
+DDI-DrugBank.d640.s3 >> Use of potassium-sparing diuretics (spironolactone, triamterene, amiloride) or potassium supplements concomitantly with ACE inhibitors can increase the risk of hyperkalemia. >> 7-33,36-49,52-62,65-73,79-87,120-133
+DDI-DrugBank.d640.s4 >> Therefore, if concomitant use of such agents is indicated, they should be given with caution and the patient's serum potassium should be monitored.
+DDI-DrugBank.d640.s5 >> Oral Anticoagulants: Interaction studies with warfarin failed to identify any clinically important effect on the serum concentrations of the anticoagulant or on its anticoagulant effect. >> 5-18,46-53,141-153
+DDI-DrugBank.d640.s6 >> Lithium: Increased serum lithium levels and symptoms of lithium toxicity have been reported in patients receiving ACE inhibitors during therapy with lithium. >> 0-6,25-31,56-62,114-127,149-155
+DDI-DrugBank.d640.s7 >> These drugs should be coadministered with caution, and frequent monitoring of serum lithium levels is recommended. >> 84-90
+DDI-DrugBank.d640.s8 >> If a diuretic is also used, the risk of lithium toxicity may be increased. >> 5-12,40-46
+DDI-DrugBank.d640.s9 >> Other Agents: No clinically important pharmacokinetic interactions occurred when UNIVASC    was administered concomitantly with hydrochlorothiazide, digoxin, or cimetidine. >> 81-87,128-146,149-155,161-170
+DDI-DrugBank.d640.s10 >> UNIVASC    has been used in clinical trials concomitantly with calcium-channel-blocking agents, diuretics, H2 blockers, digoxin, oral hypoglycemic agents, and cholesterol-lowering agents. >> 0-6,63-93,96-104,107-117,120-126,134-152
+DDI-DrugBank.d640.s11 >> There was no evidence of clinically important adverse interactions.
